@@ -3,6 +3,17 @@ Source : https://pubsonline.informs.org/doi/abs/10.1287/mnsc.18.8.b395 ([Scihub]
 
 Accessed on : 3-Apr-19, 12.40
 
+## Personal Notes Outlines
+- Planning-Programming-Budgeting System (PPBS)
+	- A managerial process
+	- To achieve a more efficient resource allocation
+- The major model use sophiscated methods. For the sake to reduce uncertainity by using past trend/data.
+- Operational Policy has many conflicting ideas, here are lot of factors involved, from community, funders, administrators, faculty, students and staff.
+- Goal Programming approach fits this needs
+	- since it handles multiple, competitive and often conflicting goals 
+- Limited to one department in a university/institution.
+- Planning horizon under consideration limited to one year (at least this gets into basic idea, we can extend it to more longer period of time with more complex method like using forecasting parameters)
+	- gatau gua ngomong apa ini cuk.
 
 ## Summary
 
